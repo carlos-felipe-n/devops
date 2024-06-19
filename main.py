@@ -11,4 +11,4 @@ class Cliente:
 
 felipe = Cliente(nome='Felipe', email='teste@teste', idade=32)
 
-felipe.exibir()
+print(felipe.exibir())
