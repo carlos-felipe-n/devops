@@ -6,4 +6,4 @@ from listas import gerandoListas
 
 print(soma(1,2))
 print(apresentacao('Felipe'))
-print(gerandoListas(['1']))
+print(gerandoListas(['1','2']))
